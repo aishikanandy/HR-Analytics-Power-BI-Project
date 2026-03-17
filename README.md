@@ -2,7 +2,7 @@
 This project focuses on analyzing workforce data to generate insights on employee attrition, performance, and workforce cost.
 
 
-## Objectives
+## Business Objectives
 
 Analyze employee attrition trends
 
@@ -11,16 +11,6 @@ Identify high-risk departments
 Evaluate performance and training impact
 
 Understand salary distribution and workforce cost
-
-## Dashboard Pages
-
-Executive Overview
-
-Attrition Analysis
-
-Performance & Productivity
-
-Workforce Cost & Planning
 
 ## Key Insights
 
@@ -32,8 +22,38 @@ Evaluated relationship between training and performance
 
 Highlighted workforce cost concentration
 
+## Repository Structure
+
+Dataset → Source Excel data
+
+PBIX → Power BI dashboard file
+
+Screenshots → Dashboard preview images
+
+Documentation → DAX measures and calculations
+
 ## Tools Used
 
-Power BI
+Microsoft Power BI Desktop
 
-Excel
+DAX (Data Analysis Expressions)
+
+Excel Dataset
+
+Data Modeling & Relationships
+
+## Report Pages
+
+Executive Snapshot
+
+Attrition Analysis
+
+Productivity
+
+Workforce Cost & Planning
+
+## Author
+
+Aishika Nandy
+
+Power BI Enthusiast
